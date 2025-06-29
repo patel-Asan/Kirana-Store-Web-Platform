@@ -1,1 +1,2 @@
 # Kirana-Store-Web-Platform
+Kirana Store Web Platform, is my first experience project an intuitive and user-friendly e-commerce solution designed for grocery and daily essentials. Featuring a modern UI with categorized products like spices, dairy, and rice, this platform helps users easily browse and purchase items. With seamless navigation, search functionality, and a responsive layout, this project demonstrates your expertise in full-stack web development, UI/UX design, and e-commerce solutions.
